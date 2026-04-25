@@ -1,6 +1,6 @@
 import './ListaSuspensa.css'
 
-const ListaSuspensa = (props) => { 
+const ListaSuspensa = (props) => {
     console.log(props.itens)
     
     return(
